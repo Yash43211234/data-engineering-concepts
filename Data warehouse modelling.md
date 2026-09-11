@@ -2,7 +2,7 @@
 
 ## 1. Data Warehouse Fundamentals
 
-* [ ] What is a Data Warehouse?
+* [️✅] What is a Data Warehouse?
 * [ ] Why do we need a Data Warehouse?
 * [ ] Data Warehouse vs Data Lake
 * [ ] ETL
